@@ -2,8 +2,9 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>Hello Home</div>
+    <div>profile me</div>
   )
 }
 
 export default page
+//routing
